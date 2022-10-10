@@ -2,7 +2,7 @@
 title: 'Senior Front-end Developer'
 desc: 'Ongoing Mentorship and Career Growth opportunity'
 imageUrl: 'https://images.unsplash.com/photo-1616499370260-485b3e5ed653'
-status: 'Recruiting'
+status: 'not recruiting'
 date: '2020-01-01'
 ---
 
